@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/rudhachu/rudh#readme",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:princerudh/Bailey",
+    "@adiwajshing/baileys": "github:princerudh/Bailey",
     "@adiwajshing/keyed-db": "^0.2.4",
     "acrcloud": "^1.4.0",
     "axios": "^1.6.0",
